@@ -1,0 +1,14 @@
+.margin3{
+	margin-right: 40px;
+}
+.a{
+	min-height: 600px;
+}
+
+
+.seat{
+	width: 20px;
+	height: 20px;
+	background-color:"yellow";
+	border: solid 1px black; 
+}
